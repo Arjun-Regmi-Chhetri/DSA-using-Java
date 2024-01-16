@@ -32,4 +32,4 @@ This repository contains Java implementations of various data structures and alg
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Arjun-Regmi-Chhetri/DSA-using-Java.git
